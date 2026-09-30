@@ -33,8 +33,8 @@
 
 ## 关于
 
-&nbsp;&nbsp;&nbsp;你好，这里是 **3yearsZhuang**。主要写 TypeScript 和 Rust，也碰 C# 与 .NET，
-后端、桌面端、前端都做，属于「全干工程师」的那种～。
+&nbsp;&nbsp;&nbsp;你好，这里是 **3yearsZhuang**。主要写 TypeScript （我说我最喜欢TS了!!哦当然不是那个TS）
+全栈都做，属于「全干工程师」的那种～。
 
 &nbsp;&nbsp;&nbsp;喜欢做**自己每天都会用**的东西：桌面上随手一拖就能收纳文件的工具、
 能陪着学习到深夜的伴学 Agent、
@@ -183,12 +183,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=3yearsZhuang&style=flat-square&color=6B5B95&label=VISITORS" alt="Visitor Count" />
-  <img src="https://img.shields.io/github/followers/3yearsZhuang?style=flat-square&color=6B5B95&label=FOLLOWERS&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/3yearsZhuang?style=flat-square&color=6B5B95&label=STARS&logo=github" alt="Stars" />
-</p>
 
 <p align="center">
   <sub>来陪我聊聊天吧！提issue，pr或者发邮件都是大欢迎～看到会回。 ✧(≖ ◡ ≖✿)</sub>
