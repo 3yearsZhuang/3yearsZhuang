@@ -10,11 +10,11 @@
 
 </div>
 
-<h1 align="center">3yearsZhuang <sub><code>庄某三岁</code></sub></h1>
+<h1 align="center">3yearsZhuang</h1>
 
 <p align="center">
   <b>向着星辰与深渊。</b><br>
-  <sub>写代码的人 · 做点自己也会用的东西</sub>
+  <sub>做点自己也会用的东西</sub>
 </p>
 
 <p align="center">
@@ -26,9 +26,6 @@
   </a>
   <a href="https://space.bilibili.com/你的UID">
     <img src="https://img.shields.io/badge/Bilibili-主页-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" />
-  </a>
-  <a href="https://你的博客地址">
-    <img src="https://img.shields.io/badge/Blog-个人博客-6B5B95?style=flat-square&logo=hexo&logoColor=white" alt="Blog" />
   </a>
 </p>
 
