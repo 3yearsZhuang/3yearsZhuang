@@ -13,7 +13,7 @@
 <h1 align="center">3yearsZhuang</h1>
 
 <p align="center">
-  <b>向着星辰与深渊。</b><br>
+  <b>向着星辰与深渊!</b><br>
   <sub>做点自己也会用的东西</sub>
 </p>
 
@@ -21,7 +21,7 @@
   <a href="https://github.com/3yearsZhuang">
     <img src="https://img.shields.io/badge/GitHub-3yearsZhuang-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:WenyuanZhuang@outlook.com">
+  <a href="mailto:rosemary3years@outlook.com">
     <img src="https://img.shields.io/badge/Email-WenyuanZhuang%40outlook.com-0078D4?style=flat-square&logo=maildotru&logoColor=white" alt="Email" />
   </a>
   <a href="https://space.bilibili.com/你的UID">
@@ -34,18 +34,17 @@
 ## 关于
 
 &nbsp;&nbsp;&nbsp;你好，这里是 **3yearsZhuang**。主要写 TypeScript 和 Rust，也碰 C# 与 .NET，
-后端、桌面端、前端都做，属于「哪里需要就往哪搬」的那种。
+后端、桌面端、前端都做，属于「全干工程师」的那种～。
 
 &nbsp;&nbsp;&nbsp;喜欢做**自己每天都会用**的东西：桌面上随手一拖就能收纳文件的工具、
-能陪着学习到深夜的伴学 Agent（*Index 学习岛*，还在打磨中）、
-把环境配置这件事一次讲清楚的终端应用。
-比起堆功能，更在意一个东西**用起来到底顺不顺**。
+能陪着学习到深夜的伴学 Agent、
+让项目环境配置不再浪费时间的终端应用。
 
 &nbsp;&nbsp;&nbsp;相信「数据自持」——你的数据应该待在你自己机器上。所以我的项目大多本地优先
 （local-first），SQLite 当真相源，不依赖云端也能跑起来。
 
 &nbsp;&nbsp;&nbsp;平时会逛 GitHub 看有意思的项目，偶尔提点小改动；
-下班时间处理消息和邮件，回复可能不及时，见谅。
+处理消息和邮件的时间得看天意。
 
 ---
 
@@ -192,5 +191,5 @@
 </p>
 
 <p align="center">
-  <sub>有问题或者只是想聊两句，发邮件就好，看到会回。 ✧(≖ ◡ ≖✿)</sub>
+  <sub>来陪我聊聊天吧！提issue，pr或者发邮件都是大欢迎～看到会回。 ✧(≖ ◡ ≖✿)</sub>
 </p>
