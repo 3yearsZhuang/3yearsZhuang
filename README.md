@@ -1,9 +1,3 @@
-<!--
-  GitHub Profile README · 3yearsZhuang
-  仓库名需与用户名一致：仓库名必须是 3yearsZhuang，默认分支为 main，此文件置于根目录。
-  图片素材说明见同目录 ASSETS.md。
--->
-
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1200&color=6B5B95&center=true&vCenter=true&width=760&height=90&lines=%E5%90%91%E7%9D%80%E6%98%9F%E8%BE%B0%E4%B8%8E%E6%B7%B1%E6%B8%8A%E2%80%A6%E2%80%A6;3yearsZhuang+%E3%81%AE+GitHub;TypeScript+%C2%B7+Rust+%C2%B7+C%23+%C2%B7+Local-first" alt="Typing SVG" />
@@ -33,7 +27,7 @@
 
 ## 关于
 
-&nbsp;&nbsp;&nbsp;你好，这里是 **3yearsZhuang**。主要写 TypeScript （我说我最喜欢TS了!!哦当然不是那个TS）
+&nbsp;&nbsp;&nbsp;你好，这里是 **3yearsZhuang**。主要写 TypeScript （我最喜欢TS了!!哦当然不是那个TS）
 全栈都做，属于「全干工程师」的那种～。
 
 &nbsp;&nbsp;&nbsp;喜欢做**自己每天都会用**的东西：
@@ -171,19 +165,6 @@
 
 ---
 
-## 数据
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3yearsZhuang&show_icons=true&title_color=6B5B95&icon_color=6B5B95&text_color=2d3748&bg_color=ffffff&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3yearsZhuang&title_color=6B5B95&text_color=2d3748&bg_color=ffffff&hide_border=true&layout=compact&langs_count=8&count_private=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3yearsZhuang&hide_border=true&background=ffffff&ring=6B5B95&fire=6B5B95&currStreakLabel=6B5B95" alt="Streak" height="165" />
-</p>
-
----
-
-<p align="center">
-  <sub>来陪我聊聊天吧！提issue，pr或者发邮件都是大欢迎～看到会回。 ✧(≖ ◡ ≖✿)</sub>
+  <sub>来陪我聊聊天吧！提issue，pr或者发邮件都是大欢迎～ ✧(≖ ◡ ≖✿)</sub>
 </p>
